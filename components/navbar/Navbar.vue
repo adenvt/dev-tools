@@ -7,15 +7,9 @@
     >
       <div class="navbar-header">
         <b-navbar-brand href="#">
-          DASHBOARD
+          Dev Tools
         </b-navbar-brand>
       </div>
-
-      <b-navbar-nav>
-        <b-nav-item href="#">
-          Link
-        </b-nav-item>
-      </b-navbar-nav>
 
       <b-navbar-nav class="ml-auto">
         <b-nav-item-dropdown

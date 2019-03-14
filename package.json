@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-boilerplate",
-  "version": "0.2.0",
-  "description": "My remarkable Nuxt.js project",
+  "name": "dev-tools",
+  "version": "0.1.0",
+  "description": "Collection tools for development",
   "author": "Ade Novid",
   "private": true,
   "scripts": {
