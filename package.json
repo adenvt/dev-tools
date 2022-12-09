@@ -28,7 +28,7 @@
     "bootstrap-vue": "^2.0.0-rc.14",
     "cross-env": "^5.2.0",
     "downloadjs": "^1.4.7",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-icons-js": "github:websemantics/file-icons-js",
     "nuxt": "^2.4.5",
     "nuxt-simple-line-icons": "^1.0.1",
