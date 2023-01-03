@@ -30,7 +30,7 @@
     "downloadjs": "^1.4.7",
     "express": "^4.16.4",
     "file-icons-js": "github:websemantics/file-icons-js",
-    "nuxt": "^2.4.5",
+    "nuxt": "^2.15.8",
     "nuxt-simple-line-icons": "^1.0.1",
     "vue-clipboard2": "^0.3.0",
     "vue-notification": "^1.3.16",
